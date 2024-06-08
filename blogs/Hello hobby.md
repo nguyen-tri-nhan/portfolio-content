@@ -1,14 +1,4 @@
 # My hobbies
-### On this page
-<!---toc start-->
-
-* [My hobbies](#my-hobbies)
-    * [On this page](#on-this-page)
-  * [Playing FIFA](#playing-fifa)
-  * [Coffee](#coffee)
-
-<!---toc end-->
-
 As a software engineer, I have a passion for coding and building software applications. I enjoy exploring new technologies, solving complex problems, and constantly learning and improving my skills. In my free time, I also like to contribute to open-source projects and participate in coding competitions. Programming is not just my profession, but also my favorite hobby!
 
 ![Nhan Nguyen in Dalat](../images/blogs/Hello%20hobby.md/IMG_0266.JPG?raw=true)
